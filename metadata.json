@@ -1,0 +1,6 @@
+{
+  "name": "Poket Pemandu Labuan",
+  "description": "Aplikasi rujukan cepat dan latihan mengingat maklumat destinasi pelancongan Labuan untuk peserta kursus asas pemandu pelancong.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
